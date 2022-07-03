@@ -11,3 +11,7 @@ op=t_mod.predict([ls1])
 if st.button("PREDICT"):
   st.title(op)
     
+
+    
+    
+    
